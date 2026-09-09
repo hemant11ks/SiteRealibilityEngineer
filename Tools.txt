@@ -2,6 +2,13 @@ Tools Overview:
 
 Monitoring VS Observibility
 
-Monitoring:
+Monitoring: 
 
 Observibility:
+
+--------------
+
+Logs: Records of what’s happening within your network and software systems. Logs provide granular information about what occurred, when it occurred and where in the network it occurred.
+Metrics: Numerical assessments of system performance and resource usage. Metrics provide a high-level overview of system health by capturing specific data types and key performance indicators (KPIs), such as latency, packet loss, bandwidth availability and device CPU usage.
+Traces: End-to-end records of every user request’s journey through the network. Traces provide insights into the path and behavior of data packets as they traverse multiple devices and systems, making them essential for understanding distributed systems.
+
