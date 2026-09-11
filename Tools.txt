@@ -2,6 +2,7 @@ Tools Overview:
 
 Monitoring VS Observibility
 
+Logs VS Metrics VS Traces
 
 1. Logs: Records of what’s happening within your network and software systems. Logs provide granular information about what occurred, when it occurred and where in the network it occurred.
 
