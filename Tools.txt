@@ -10,3 +10,5 @@ Logs VS Metrics VS Traces
 
 3. Traces: End-to-end records of every user request’s journey through the network. Traces provide insights into the path and behavior of data packets as they traverse multiple devices and systems, making them essential for understanding distributed systems.
 
+SRE Principals :
+
