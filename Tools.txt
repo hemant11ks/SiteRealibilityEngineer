@@ -12,3 +12,13 @@ Logs VS Metrics VS Traces
 
 SRE Principals :
 
+The seven principles of SRE include:    
+
+1. Embracing risk
+2. Service level objectives
+3. Eliminating toil
+4. Monitoring
+5. Automation
+6. Release engineering
+7. Simplicity
+
