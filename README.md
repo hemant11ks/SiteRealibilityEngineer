@@ -10,4 +10,4 @@ Being proactive - living and breathing SLOs to identify and remediate issues bef
 Architecting for resiliency - Informing architectural design decisions to build more reliable systems
 
 
-SRE :
+SRE Different From DevOps or Platform Engineer ?
