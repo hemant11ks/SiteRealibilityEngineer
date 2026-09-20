@@ -22,3 +22,5 @@ The seven principles of SRE include:
 6. Release engineering
 7. Simplicity
 
+General Terms :
+
