@@ -24,5 +24,6 @@ The seven principles of SRE include:
 
 General Terms :
 
-SLO
+1. SLO
+2. SLI
 
